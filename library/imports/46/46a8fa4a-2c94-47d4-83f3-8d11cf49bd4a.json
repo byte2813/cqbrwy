@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tipbox (2)",
+    "texture": "89260284-38d9-401e-b172-b3432a6086df",
+    "atlas": "",
+    "rect": [
+      39,
+      44,
+      264,
+      190
+    ],
+    "offset": [
+      19.5,
+      -22
+    ],
+    "originalSize": [
+      303,
+      234
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

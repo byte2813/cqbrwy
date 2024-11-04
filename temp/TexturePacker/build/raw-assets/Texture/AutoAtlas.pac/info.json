@@ -1,0 +1,2735 @@
+{
+  "mtimes": {
+    "f59b9b9e-e578-4ae9-aea3-484dc4416baa": {
+      "assetMtime": 1730715693686,
+      "metaMtime": 1730715726064
+    },
+    "7561eb3e-7728-4a86-85ad-077206b097d1": {
+      "assetMtime": 1730715693503,
+      "metaMtime": 1730715725809
+    },
+    "46bf6ed6-b53f-4c53-8e34-f4287ed14b0c": {
+      "assetMtime": 1730715693503,
+      "metaMtime": 1730715725809
+    },
+    "151df094-4394-48ca-af76-8cc832800577": {
+      "assetMtime": 1730715693542,
+      "metaMtime": 1730715725826
+    },
+    "cb22c513-37c3-4fb1-a213-a4762cef5098": {
+      "assetMtime": 1730715693542,
+      "metaMtime": 1730715725826
+    },
+    "40255fff-6fe6-4ab8-a1ca-abc211657430": {
+      "assetMtime": 1730715694813,
+      "metaMtime": 1730715725824
+    },
+    "a7f345e9-ac13-47fa-b92e-bf787c61a1a3": {
+      "assetMtime": 1730715694813,
+      "metaMtime": 1730715725824
+    },
+    "1c6d6256-e22a-47f3-9753-ea8a59ce2583": {
+      "assetMtime": 1730715694855,
+      "metaMtime": 1730715725840
+    },
+    "a0c6e9a8-c2e6-4fc7-b512-bc30943d9a7d": {
+      "assetMtime": 1730715694855,
+      "metaMtime": 1730715725840
+    },
+    "07cb5ff6-4cfc-490d-bca2-160ce6f958d9": {
+      "assetMtime": 1730715694897,
+      "metaMtime": 1730715725852
+    },
+    "6737f5f0-dcbb-4648-974b-f8158527de6c": {
+      "assetMtime": 1730715694897,
+      "metaMtime": 1730715725852
+    },
+    "0cf70568-8bf3-4d76-9eaa-4494d8a31bfc": {
+      "assetMtime": 1730715694940,
+      "metaMtime": 1730715725849
+    },
+    "98e48571-6ade-4578-a255-5cadf0f66831": {
+      "assetMtime": 1730715694940,
+      "metaMtime": 1730715725849
+    },
+    "be879a55-c98f-4f64-b69b-7ab1cc9c8536": {
+      "assetMtime": 1730715694982,
+      "metaMtime": 1730715725867
+    },
+    "dca9cb3f-377a-4c2d-98a9-0eb8c8cb4bad": {
+      "assetMtime": 1730715694982,
+      "metaMtime": 1730715725867
+    },
+    "c369c7ad-cdb0-4cb5-98f2-1c42419251af": {
+      "assetMtime": 1730715695025,
+      "metaMtime": 1730715725865
+    },
+    "bf4a5331-4564-40ed-8787-555436e24823": {
+      "assetMtime": 1730715695025,
+      "metaMtime": 1730715725865
+    },
+    "5ee173e5-cf3d-4282-b2a5-668617ecb8d9": {
+      "assetMtime": 1730715695067,
+      "metaMtime": 1730715725887
+    },
+    "63e6f57a-de76-4073-a85b-508bb2028b8c": {
+      "assetMtime": 1730715695067,
+      "metaMtime": 1730715725887
+    },
+    "7dcedec0-4373-4479-9837-e0231b1192f8": {
+      "assetMtime": 1730715695155,
+      "metaMtime": 1730715725889
+    },
+    "3265e406-38b6-49a1-803a-9aad4604cc7d": {
+      "assetMtime": 1730715695155,
+      "metaMtime": 1730715725889
+    },
+    "db948d8a-dcd0-4188-a8ad-b49f90806848": {
+      "assetMtime": 1730715695112,
+      "metaMtime": 1730715725912
+    },
+    "56d36e2a-bba8-4c38-9163-f7508a8e6bad": {
+      "assetMtime": 1730715695112,
+      "metaMtime": 1730715725912
+    },
+    "e39df008-fb6f-4c14-a928-665f64c0dd9f": {
+      "assetMtime": 1730715693607,
+      "metaMtime": 1730715725915
+    },
+    "430ab185-dcf2-483c-a6a8-fe92d274b9bb": {
+      "assetMtime": 1730715693607,
+      "metaMtime": 1730715725915
+    },
+    "7a44b744-30a1-4035-a0df-7ff73ac0e587": {
+      "assetMtime": 1730715695197,
+      "metaMtime": 1730715725931
+    },
+    "8ce9770c-4871-4ece-93a7-0280b1571156": {
+      "assetMtime": 1730715695197,
+      "metaMtime": 1730715725931
+    },
+    "0681e35d-19c2-43f9-9536-7606795e4de7": {
+      "assetMtime": 1730715695234,
+      "metaMtime": 1730715725942
+    },
+    "1466360e-b55f-4445-a0de-4070362ca6d4": {
+      "assetMtime": 1730715695234,
+      "metaMtime": 1730715725942
+    },
+    "d2980aa4-7562-4d24-8551-5d4085036d0b": {
+      "assetMtime": 1730715695278,
+      "metaMtime": 1730715725951
+    },
+    "eeb60250-fb46-4388-a127-1af3055c4746": {
+      "assetMtime": 1730715695278,
+      "metaMtime": 1730715725951
+    },
+    "cf9c9465-34b6-4be3-a935-368066e9491e": {
+      "assetMtime": 1730715695322,
+      "metaMtime": 1730715725964
+    },
+    "ad34effe-5b9e-470f-99e5-8c526b4644a4": {
+      "assetMtime": 1730715695322,
+      "metaMtime": 1730715725964
+    },
+    "f464d4f7-09da-4455-9270-146d9a39359b": {
+      "assetMtime": 1730715695364,
+      "metaMtime": 1730715725971
+    },
+    "120f7c6f-cdf5-46c3-bad3-f65b8c7f6221": {
+      "assetMtime": 1730715695364,
+      "metaMtime": 1730715725971
+    },
+    "c67caf16-381f-459d-a30b-81bed846e851": {
+      "assetMtime": 1730715695406,
+      "metaMtime": 1730715725983
+    },
+    "dac96767-6f0c-4e57-9a8e-26cf2bb98936": {
+      "assetMtime": 1730715695406,
+      "metaMtime": 1730715725983
+    },
+    "4fbf8df3-b863-4c49-ada2-c190e3cf12c2": {
+      "assetMtime": 1730715695448,
+      "metaMtime": 1730715725995
+    },
+    "09372406-8732-4687-a5f1-38a966c9eca0": {
+      "assetMtime": 1730715695448,
+      "metaMtime": 1730715725995
+    },
+    "657d750c-cd1c-4d4c-9a94-a1d2df11a6cf": {
+      "assetMtime": 1730715695491,
+      "metaMtime": 1730715725997
+    },
+    "03ffd00a-834d-4398-be9d-67780a0a9188": {
+      "assetMtime": 1730715695491,
+      "metaMtime": 1730715725997
+    },
+    "f519d00d-2c4a-4ec6-ad11-abe7a501409d": {
+      "assetMtime": 1730715695528,
+      "metaMtime": 1730715726016
+    },
+    "406a2669-4bc5-4914-9f50-20883a5c79e9": {
+      "assetMtime": 1730715695528,
+      "metaMtime": 1730715726016
+    },
+    "27b52c79-6aa4-4ac8-add4-d6c8eb8ed766": {
+      "assetMtime": 1730715695568,
+      "metaMtime": 1730715726020
+    },
+    "f951531e-5983-4343-a6ca-424e1195d251": {
+      "assetMtime": 1730715695568,
+      "metaMtime": 1730715726020
+    },
+    "66e4f814-724a-4bff-9825-7df343e76008": {
+      "assetMtime": 1730715695613,
+      "metaMtime": 1730715726035
+    },
+    "afce0d0a-e007-4df1-b7da-f389aa60a9f6": {
+      "assetMtime": 1730715695613,
+      "metaMtime": 1730715726035
+    },
+    "b98bf6a7-eb20-4a5c-a82b-8a28c1c85674": {
+      "assetMtime": 1730715695657,
+      "metaMtime": 1730715726041
+    },
+    "626e4623-ed61-4ea4-8825-dd1c2f9c4a9d": {
+      "assetMtime": 1730715695657,
+      "metaMtime": 1730715726041
+    },
+    "7e9f1bfa-9385-4044-91bc-c8a52f0c2d2d": {
+      "assetMtime": 1730715695695,
+      "metaMtime": 1730715726055
+    },
+    "19457837-e8b4-45c6-9cc5-a6219d13ac46": {
+      "assetMtime": 1730715695695,
+      "metaMtime": 1730715726055
+    },
+    "c03c124b-1142-4d85-82f1-32531e752ea5": {
+      "assetMtime": 1730715695739,
+      "metaMtime": 1730715726063
+    },
+    "16f9db87-9600-42e2-b879-9d0f09e112de": {
+      "assetMtime": 1730715695739,
+      "metaMtime": 1730715726063
+    },
+    "a22e11b3-dbe4-416b-a123-5b2086d947e3": {
+      "assetMtime": 1730715693723,
+      "metaMtime": 1730715726077
+    },
+    "ee1036a2-0126-409b-81a8-83872952a79e": {
+      "assetMtime": 1730715693723,
+      "metaMtime": 1730715726077
+    },
+    "fa4c1170-9b3a-49de-9f3c-a2accdbb6fbe": {
+      "assetMtime": 1730715693762,
+      "metaMtime": 1730715726087
+    },
+    "719f200f-ffd6-4dfe-8da3-6cfe2bbfd968": {
+      "assetMtime": 1730715693762,
+      "metaMtime": 1730715726087
+    },
+    "70195b04-4a94-4453-b16f-8b5beeb54def": {
+      "assetMtime": 1730715693805,
+      "metaMtime": 1730715726114
+    },
+    "f736cce7-ed67-4f19-9679-a74c5261d6a5": {
+      "assetMtime": 1730715693805,
+      "metaMtime": 1730715726114
+    },
+    "c6f13935-51e6-471e-831f-3e9689a493f7": {
+      "assetMtime": 1730715693847,
+      "metaMtime": 1730715726112
+    },
+    "6a063df3-972d-46c2-9f16-1ebe56931770": {
+      "assetMtime": 1730715693847,
+      "metaMtime": 1730715726112
+    },
+    "953a7bdf-3b76-49d5-9831-c70e95163dd4": {
+      "assetMtime": 1730715693891,
+      "metaMtime": 1730715726140
+    },
+    "d81ef909-1630-473f-8cb8-5b63db78579a": {
+      "assetMtime": 1730715693891,
+      "metaMtime": 1730715726140
+    },
+    "d69e60c9-8596-434a-a465-926cb4c7734a": {
+      "assetMtime": 1730715693935,
+      "metaMtime": 1730715726138
+    },
+    "ea6e952d-5cc2-4264-a44a-56bc0cf010a9": {
+      "assetMtime": 1730715693935,
+      "metaMtime": 1730715726138
+    },
+    "f1f11284-d59c-4261-adca-52221c580539": {
+      "assetMtime": 1730715693977,
+      "metaMtime": 1730715726189
+    },
+    "971653b5-f20f-48ae-b59b-3834f51d9fb9": {
+      "assetMtime": 1730715693977,
+      "metaMtime": 1730715726189
+    },
+    "33d0cfcf-c5a8-430f-8116-858c725da12c": {
+      "assetMtime": 1730715694021,
+      "metaMtime": 1730715726162
+    },
+    "f5efab48-447a-4331-b259-6cce2f407e3d": {
+      "assetMtime": 1730715694021,
+      "metaMtime": 1730715726162
+    },
+    "393ac1a8-7fc3-4127-b4fd-d138ec7d984b": {
+      "assetMtime": 1730715694064,
+      "metaMtime": 1730715726201
+    },
+    "0064b193-9933-4717-a7d1-09632c7142d0": {
+      "assetMtime": 1730715694064,
+      "metaMtime": 1730715726201
+    },
+    "9f87bfd7-dff9-46d8-9bcb-2fd4dc2b10f5": {
+      "assetMtime": 1730715694107,
+      "metaMtime": 1730715726214
+    },
+    "28972c30-b65b-4e12-bd48-4f7bda9be71a": {
+      "assetMtime": 1730715694107,
+      "metaMtime": 1730715726214
+    },
+    "45f214e9-3fa0-470e-9521-a13edfd2b7c0": {
+      "assetMtime": 1730715694144,
+      "metaMtime": 1730715726225
+    },
+    "13906c67-d31e-4307-a565-ad51349d6c62": {
+      "assetMtime": 1730715694144,
+      "metaMtime": 1730715726225
+    },
+    "0706478d-6e33-442e-9056-108d59ca1378": {
+      "assetMtime": 1730715694186,
+      "metaMtime": 1730715726236
+    },
+    "bc139303-cf73-4029-98d5-c7b0ca789875": {
+      "assetMtime": 1730715694186,
+      "metaMtime": 1730715726236
+    },
+    "fdffba35-959b-4e03-8e3e-b9b973282106": {
+      "assetMtime": 1730715694229,
+      "metaMtime": 1730715726246
+    },
+    "577e6412-1119-4436-a1e3-248aa6b77403": {
+      "assetMtime": 1730715694229,
+      "metaMtime": 1730715726246
+    },
+    "94fb742b-e8a6-47cb-84e2-6475e50eb095": {
+      "assetMtime": 1730715694270,
+      "metaMtime": 1730715726316
+    },
+    "dd5777d4-bd88-4efa-9e7b-0d08a76cc95a": {
+      "assetMtime": 1730715694270,
+      "metaMtime": 1730715726316
+    },
+    "8d6b9f93-adea-4b9b-94c5-4e8c36a818a2": {
+      "assetMtime": 1730715694312,
+      "metaMtime": 1730715726324
+    },
+    "95b4512e-6e79-4d50-92af-2ce059f17795": {
+      "assetMtime": 1730715694312,
+      "metaMtime": 1730715726324
+    },
+    "28e187c0-7af4-4ca2-baaf-a0443edd890d": {
+      "assetMtime": 1730715694355,
+      "metaMtime": 1730715726347
+    },
+    "4982a02b-1a9d-410a-be2e-b2102ba58e5d": {
+      "assetMtime": 1730715694355,
+      "metaMtime": 1730715726347
+    },
+    "3d3dca97-a4d0-48b3-97ea-ae7726af50bd": {
+      "assetMtime": 1730715694401,
+      "metaMtime": 1730715726348
+    },
+    "f16fba93-2aa9-4330-ac1f-8ed3b8b57887": {
+      "assetMtime": 1730715694401,
+      "metaMtime": 1730715726348
+    },
+    "38488265-36f4-4d81-a69a-7b6ecf2dfb04": {
+      "assetMtime": 1730715695781,
+      "metaMtime": 1730715726381
+    },
+    "e86ee5c7-0dd6-474a-b39a-0f943dda190e": {
+      "assetMtime": 1730715695781,
+      "metaMtime": 1730715726381
+    },
+    "d4c7cd86-9449-4550-b7a1-1acc3bb03188": {
+      "assetMtime": 1730715695823,
+      "metaMtime": 1730715726370
+    },
+    "bc9487b0-26d5-4aab-9f92-f9361f475933": {
+      "assetMtime": 1730715695823,
+      "metaMtime": 1730715726370
+    },
+    "52fd3def-a5ed-4c2c-8027-8e70acfb3140": {
+      "assetMtime": 1730715695865,
+      "metaMtime": 1730715726394
+    },
+    "7ae1439c-f583-4d81-9f77-1f3246ff9f7b": {
+      "assetMtime": 1730715695865,
+      "metaMtime": 1730715726394
+    },
+    "92fdef0c-e573-4d6e-a41a-c473b43c510f": {
+      "assetMtime": 1730715695908,
+      "metaMtime": 1730715726403
+    },
+    "753d253b-f782-462e-8d05-1429fc48bba7": {
+      "assetMtime": 1730715695908,
+      "metaMtime": 1730715726403
+    },
+    "12fd0ab8-33f6-44e3-9337-c035b9aa7525": {
+      "assetMtime": 1730715695950,
+      "metaMtime": 1730715726416
+    },
+    "db9c060b-7563-4a45-be32-d9bfa048772c": {
+      "assetMtime": 1730715695950,
+      "metaMtime": 1730715726416
+    },
+    "56333ac3-59d7-4a9b-8ccb-d56d9d4fda7e": {
+      "assetMtime": 1730715695990,
+      "metaMtime": 1730715726428
+    },
+    "840f939f-346c-44b4-b617-b89aefbc5872": {
+      "assetMtime": 1730715695990,
+      "metaMtime": 1730715726428
+    },
+    "03454f35-c355-4a8b-9161-014495b5597b": {
+      "assetMtime": 1730715696027,
+      "metaMtime": 1730715726441
+    },
+    "a14001b1-4838-43a6-b82c-f96116919a0b": {
+      "assetMtime": 1730715696027,
+      "metaMtime": 1730715726441
+    },
+    "ec80c9fa-e346-4ba0-a300-95abe71c0528": {
+      "assetMtime": 1730715696066,
+      "metaMtime": 1730715726476
+    },
+    "056f3033-b5fa-4a22-b57b-54fee92969c4": {
+      "assetMtime": 1730715696066,
+      "metaMtime": 1730715726476
+    },
+    "ee5bf543-5b21-4e5c-bc8b-58f448cce4d1": {
+      "assetMtime": 1730715696108,
+      "metaMtime": 1730715726479
+    },
+    "27da2501-2dc7-4917-a92c-8b28a3331283": {
+      "assetMtime": 1730715696108,
+      "metaMtime": 1730715726479
+    },
+    "a5491008-d2e1-4632-ab3a-66a3a4572d2c": {
+      "assetMtime": 1730715696152,
+      "metaMtime": 1730715726532
+    },
+    "75d85408-a110-4654-8bfe-79338f2217af": {
+      "assetMtime": 1730715696152,
+      "metaMtime": 1730715726532
+    },
+    "0cb17bd3-4ddf-4731-bda8-c2feb3e4ac4d": {
+      "assetMtime": 1730715696194,
+      "metaMtime": 1730715726514
+    },
+    "f5d526f5-85c6-4163-a580-d71e1f846958": {
+      "assetMtime": 1730715696194,
+      "metaMtime": 1730715726514
+    },
+    "e78b5dde-820f-472c-b035-00f7e0f31012": {
+      "assetMtime": 1730715694465,
+      "metaMtime": 1730715726547
+    },
+    "63b811a2-d3db-4a47-a346-a0981fba31c6": {
+      "assetMtime": 1730715694465,
+      "metaMtime": 1730715726547
+    },
+    "09b7267e-4d16-4679-ad96-03c02d49ff3d": {
+      "assetMtime": 1730715694507,
+      "metaMtime": 1730715726550
+    },
+    "935b6431-7d9c-4a96-b825-6054ccbca3b0": {
+      "assetMtime": 1730715694507,
+      "metaMtime": 1730715726550
+    },
+    "f984f9dc-3963-4b2c-8e74-b5e8158d4d67": {
+      "assetMtime": 1730715696240,
+      "metaMtime": 1730715726563
+    },
+    "ab843f82-9403-4c0b-8b82-e81ac926c3b7": {
+      "assetMtime": 1730715696240,
+      "metaMtime": 1730715726563
+    },
+    "29ce0055-a7d8-4a64-87da-9b59200456d1": {
+      "assetMtime": 1730715696284,
+      "metaMtime": 1730715726570
+    },
+    "3feab76b-07aa-445e-bbef-721d3f60055b": {
+      "assetMtime": 1730715696284,
+      "metaMtime": 1730715726570
+    },
+    "422cc445-e895-4b32-a19c-1a1ce645d48e": {
+      "assetMtime": 1730715696321,
+      "metaMtime": 1730715726576
+    },
+    "495fb4d0-7140-478f-b78b-74a5662ee2d4": {
+      "assetMtime": 1730715696321,
+      "metaMtime": 1730715726576
+    },
+    "b081513e-17d2-463c-b781-2edc5f1c695e": {
+      "assetMtime": 1730715696362,
+      "metaMtime": 1730715726588
+    },
+    "292a15a9-b810-4db8-8c4c-766aaab7c4e4": {
+      "assetMtime": 1730715696362,
+      "metaMtime": 1730715726588
+    },
+    "b44031d8-d6af-4d26-95b6-f67fd72a0afe": {
+      "assetMtime": 1730715696422,
+      "metaMtime": 1730715726593
+    },
+    "cf0c6957-979b-4690-a173-bc95b1fd7cac": {
+      "assetMtime": 1730715696422,
+      "metaMtime": 1730715726593
+    },
+    "888fe7aa-212c-4a2b-8a5c-37db222f222e": {
+      "assetMtime": 1730715696464,
+      "metaMtime": 1730715726646
+    },
+    "86420cfb-9627-4896-9982-08f5e6974091": {
+      "assetMtime": 1730715696464,
+      "metaMtime": 1730715726646
+    },
+    "f42026ae-4016-42e1-a9bc-d8b9f705edb1": {
+      "assetMtime": 1730715696501,
+      "metaMtime": 1730715726639
+    },
+    "e9c5fc4a-8bd9-4cec-9d47-956eace4d347": {
+      "assetMtime": 1730715696501,
+      "metaMtime": 1730715726639
+    },
+    "b221d77f-7545-47fe-bad0-1e540b5f82b6": {
+      "assetMtime": 1730715696542,
+      "metaMtime": 1730715726659
+    },
+    "cfd70cd1-110e-4a91-88de-50f5acade1d6": {
+      "assetMtime": 1730715696542,
+      "metaMtime": 1730715726659
+    },
+    "c76df38f-ac58-4abf-9c01-413b42e7751a": {
+      "assetMtime": 1730715696585,
+      "metaMtime": 1730715726661
+    },
+    "02249a9d-7597-4628-a2be-d8758417b922": {
+      "assetMtime": 1730715696585,
+      "metaMtime": 1730715726661
+    },
+    "6ff4a620-f727-4a6c-84a2-dfe7b324bdf6": {
+      "assetMtime": 1730715696621,
+      "metaMtime": 1730715726674
+    },
+    "2392c450-bb60-43f3-857a-623bc5309b78": {
+      "assetMtime": 1730715696621,
+      "metaMtime": 1730715726674
+    },
+    "f751ff59-8e3c-404f-acb8-510e0b415b76": {
+      "assetMtime": 1730715696663,
+      "metaMtime": 1730715726742
+    },
+    "ead00d74-812b-47eb-a068-de62e75813ec": {
+      "assetMtime": 1730715696663,
+      "metaMtime": 1730715726742
+    },
+    "3e5b7d3e-9995-4088-9237-73ea3e0cb941": {
+      "assetMtime": 1730715696705,
+      "metaMtime": 1730715726753
+    },
+    "9f606596-0024-466f-b37a-97622e05f3dc": {
+      "assetMtime": 1730715696705,
+      "metaMtime": 1730715726753
+    },
+    "72fd7f95-62f3-4fff-9bfb-df344003d059": {
+      "assetMtime": 1730715696750,
+      "metaMtime": 1730715726764
+    },
+    "01c1aa35-31d2-4f99-abfd-026d6aca0297": {
+      "assetMtime": 1730715696750,
+      "metaMtime": 1730715726764
+    },
+    "79f59b38-59da-450b-9bfd-2cfae65f529c": {
+      "assetMtime": 1730715696786,
+      "metaMtime": 1730715726774
+    },
+    "d3568d6a-8d11-4e7a-9720-aececa08a1c1": {
+      "assetMtime": 1730715696786,
+      "metaMtime": 1730715726774
+    },
+    "09f1f917-2fee-47e9-bdf6-069dc771ec10": {
+      "assetMtime": 1730715696828,
+      "metaMtime": 1730715726775
+    },
+    "fddf121a-f575-4761-831e-490e61fe6f1d": {
+      "assetMtime": 1730715696828,
+      "metaMtime": 1730715726775
+    },
+    "511ca3c6-6ead-4877-8d6c-5e83b3900e72": {
+      "assetMtime": 1730715696873,
+      "metaMtime": 1730715726797
+    },
+    "f63c4e49-a94c-4cd8-aa65-702d7b8153e0": {
+      "assetMtime": 1730715696873,
+      "metaMtime": 1730715726797
+    },
+    "a5c7ae14-e0d8-4b7d-80ad-04454833c2d3": {
+      "assetMtime": 1730715696917,
+      "metaMtime": 1730715726791
+    },
+    "f4dacb08-79d9-4d34-8172-3fe32e15dd5e": {
+      "assetMtime": 1730715696917,
+      "metaMtime": 1730715726791
+    },
+    "cb492436-20b4-4861-8deb-07e075838102": {
+      "assetMtime": 1730715696962,
+      "metaMtime": 1730715726814
+    },
+    "a1cce985-552c-4113-8b50-8201966725bf": {
+      "assetMtime": 1730715696962,
+      "metaMtime": 1730715726814
+    },
+    "8a8ec7d0-d6d3-449e-adb9-ac58425ff750": {
+      "assetMtime": 1730715697006,
+      "metaMtime": 1730715726812
+    },
+    "452cf243-f340-4f02-aa06-c9c58db242d6": {
+      "assetMtime": 1730715697006,
+      "metaMtime": 1730715726812
+    },
+    "1dd9358f-0489-494e-9cf5-84371bdd86af": {
+      "assetMtime": 1730715697050,
+      "metaMtime": 1730715726831
+    },
+    "ed651ec6-d155-4ebe-a008-cf7cba0f62e8": {
+      "assetMtime": 1730715697050,
+      "metaMtime": 1730715726831
+    },
+    "b12948e6-6025-4efe-865f-df9034a1e459": {
+      "assetMtime": 1730715697097,
+      "metaMtime": 1730715726833
+    },
+    "4d54690f-4d7c-4daf-ba34-ee708241115f": {
+      "assetMtime": 1730715697097,
+      "metaMtime": 1730715726833
+    },
+    "fc71736c-1811-4807-8a4e-8667e4453c49": {
+      "assetMtime": 1730715697136,
+      "metaMtime": 1730715726855
+    },
+    "e12efa35-1df5-47a8-90bc-310fd68f8c92": {
+      "assetMtime": 1730715697136,
+      "metaMtime": 1730715726855
+    },
+    "52d79ee1-2087-4b81-9200-020189158cb7": {
+      "assetMtime": 1730715697175,
+      "metaMtime": 1730715726850
+    },
+    "5b38e742-9e66-4da6-af63-c57b366af822": {
+      "assetMtime": 1730715697175,
+      "metaMtime": 1730715726850
+    },
+    "d4647ba7-21d0-4409-9261-bbfe791a4e41": {
+      "assetMtime": 1730715694597,
+      "metaMtime": 1730715726867
+    },
+    "4c96b586-fff7-4d41-aa29-cd7deb27bf85": {
+      "assetMtime": 1730715694597,
+      "metaMtime": 1730715726867
+    },
+    "a7a08b18-ddbe-440f-862c-70626961c6c7": {
+      "assetMtime": 1730715694639,
+      "metaMtime": 1730715726873
+    },
+    "e711a37d-4f5f-4d80-8d21-cf64964637e3": {
+      "assetMtime": 1730715694639,
+      "metaMtime": 1730715726873
+    },
+    "46a8fa4a-2c94-47d4-83f3-8d11cf49bd4a": {
+      "assetMtime": 1730715694683,
+      "metaMtime": 1730715726888
+    },
+    "89260284-38d9-401e-b172-b3432a6086df": {
+      "assetMtime": 1730715694683,
+      "metaMtime": 1730715726888
+    },
+    "9063a025-f305-48ca-8c2d-c7034a1257b0": {
+      "assetMtime": 1730704108729,
+      "metaMtime": 1730715846552
+    },
+    "c9eab53a-e39e-4ee7-8fa5-ac6ac8aa9e2a": {
+      "assetMtime": 1730704108729,
+      "metaMtime": 1730715846552
+    },
+    "53d4b33b-1f44-4d1f-8cbc-cf4d006388eb": {
+      "assetMtime": 1730715694724,
+      "metaMtime": 1730715726890
+    },
+    "a7a1efc0-b342-49ff-939a-330fcd29ca5b": {
+      "assetMtime": 1730715694724,
+      "metaMtime": 1730715726890
+    },
+    "bd8aa757-893f-45fe-b212-d004c99aad1b": {
+      "assetMtime": 1730715694767,
+      "metaMtime": 1730715726912
+    },
+    "b9099020-01ee-4121-bb12-31b51d49f1cc": {
+      "assetMtime": 1730715694767,
+      "metaMtime": 1730715726912
+    }
+  },
+  "result": {
+    "name": "AutoAtlas-3",
+    "width": 994,
+    "height": 990,
+    "ver": "1.2.0",
+    "uuid": "f59b9b9e-e578-4ae9-aea3-484dc4416baa",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "heuristices": "BestAreaFit",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "cell0",
+            "uuid": "f1f11284-d59c-4261-adca-52221c580539",
+            "textureUuid": "971653b5-f20f-48ae-b59b-3834f51d9fb9",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901806_image_32.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 671,
+              "height": 653,
+              "rotatedWidth": 671,
+              "rotatedHeight": 653
+            },
+            "rawWidth": 671,
+            "rawHeight": 653,
+            "width": 677,
+            "height": 659,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/97/971653b5-f20f-48ae-b59b-3834f51d9fb9.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 677,
+            "rotatedHeight": 659
+          },
+          {
+            "name": "组 3",
+            "uuid": "bd8aa757-893f-45fe-b212-d004c99aad1b",
+            "textureUuid": "b9099020-01ee-4121-bb12-31b51d49f1cc",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901811_image_84.png",
+            "trim": {
+              "x": 3,
+              "y": 662,
+              "width": 477,
+              "height": 345,
+              "rotatedWidth": 477,
+              "rotatedHeight": 345
+            },
+            "rawWidth": 477,
+            "rawHeight": 345,
+            "width": 483,
+            "height": 351,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/b9/b9099020-01ee-4121-bb12-31b51d49f1cc.png",
+            "x": 0,
+            "y": 659,
+            "rotatedWidth": 483,
+            "rotatedHeight": 351
+          },
+          {
+            "name": "组 27",
+            "uuid": "fc71736c-1811-4807-8a4e-8667e4453c49",
+            "textureUuid": "e12efa35-1df5-47a8-90bc-310fd68f8c92",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_77.png",
+            "trim": {
+              "x": 486,
+              "y": 662,
+              "width": 409,
+              "height": 357,
+              "rotatedWidth": 409,
+              "rotatedHeight": 357
+            },
+            "rawWidth": 427,
+            "rawHeight": 365,
+            "width": 415,
+            "height": 363,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/e1/e12efa35-1df5-47a8-90bc-310fd68f8c92.png",
+            "x": 483,
+            "y": 659,
+            "rotatedWidth": 415,
+            "rotatedHeight": 363
+          },
+          {
+            "name": "开始游戏",
+            "uuid": "f464d4f7-09da-4455-9270-146d9a39359b",
+            "textureUuid": "120f7c6f-cdf5-46c3-bad3-f65b8c7f6221",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_16.png",
+            "trim": {
+              "x": 901,
+              "y": 662,
+              "width": 316,
+              "height": 105,
+              "rotatedWidth": 105,
+              "rotatedHeight": 316
+            },
+            "rawWidth": 316,
+            "rawHeight": 105,
+            "width": 322,
+            "height": 111,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/12/120f7c6f-cdf5-46c3-bad3-f65b8c7f6221.png",
+            "x": 898,
+            "y": 659,
+            "rotated": true,
+            "rotatedWidth": 111,
+            "rotatedHeight": 322
+          },
+          {
+            "name": "组 11",
+            "uuid": "09f1f917-2fee-47e9-bdf6-069dc771ec10",
+            "textureUuid": "fddf121a-f575-4761-831e-490e61fe6f1d",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_70.png",
+            "trim": {
+              "x": 901,
+              "y": 984,
+              "width": 35,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 35
+            },
+            "rawWidth": 35,
+            "rawHeight": 40,
+            "width": 41,
+            "height": 46,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/fd/fddf121a-f575-4761-831e-490e61fe6f1d.png",
+            "x": 898,
+            "y": 981,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 41
+          },
+          {
+            "name": "17651555834136_",
+            "uuid": "b44031d8-d6af-4d26-95b6-f67fd72a0afe",
+            "textureUuid": "cf0c6957-979b-4690-a173-bc95b1fd7cac",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_60.png",
+            "trim": {
+              "x": 947,
+              "y": 984,
+              "width": 32,
+              "height": 33,
+              "rotatedWidth": 32,
+              "rotatedHeight": 33
+            },
+            "rawWidth": 32,
+            "rawHeight": 33,
+            "width": 38,
+            "height": 39,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/cf/cf0c6957-979b-4690-a173-bc95b1fd7cac.jpg",
+            "x": 944,
+            "y": 981,
+            "rotatedWidth": 38,
+            "rotatedHeight": 39
+          },
+          {
+            "name": "组 29",
+            "uuid": "d4c7cd86-9449-4550-b7a1-1acc3bb03188",
+            "textureUuid": "bc9487b0-26d5-4aab-9f92-f9361f475933",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_44.png",
+            "trim": {
+              "x": 985,
+              "y": 984,
+              "width": 31,
+              "height": 26,
+              "rotatedWidth": 31,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 31,
+            "rawHeight": 26,
+            "width": 37,
+            "height": 32,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/bc/bc9487b0-26d5-4aab-9f92-f9361f475933.png",
+            "x": 982,
+            "y": 981,
+            "rotatedWidth": 37,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "title",
+            "uuid": "9063a025-f305-48ca-8c2d-c7034a1257b0",
+            "textureUuid": "c9eab53a-e39e-4ee7-8fa5-ac6ac8aa9e2a",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901811_image_82.png",
+            "trim": {
+              "x": 680,
+              "y": 3,
+              "width": 476,
+              "height": 267,
+              "rotatedWidth": 267,
+              "rotatedHeight": 476
+            },
+            "rawWidth": 477,
+            "rawHeight": 345,
+            "width": 482,
+            "height": 273,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/c9/c9eab53a-e39e-4ee7-8fa5-ac6ac8aa9e2a.png",
+            "x": 677,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 273,
+            "rotatedHeight": 482
+          },
+          {
+            "name": "bg",
+            "uuid": "c6f13935-51e6-471e-831f-3e9689a493f7",
+            "textureUuid": "6a063df3-972d-46c2-9f16-1ebe56931770",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_29.png",
+            "trim": {
+              "x": 680,
+              "y": 485,
+              "width": 134,
+              "height": 307,
+              "rotatedWidth": 307,
+              "rotatedHeight": 134
+            },
+            "rawWidth": 134,
+            "rawHeight": 307,
+            "width": 140,
+            "height": 313,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/6a/6a063df3-972d-46c2-9f16-1ebe56931770.png",
+            "x": 677,
+            "y": 482,
+            "rotated": true,
+            "rotatedWidth": 313,
+            "rotatedHeight": 140
+          },
+          {
+            "name": "查看好友排行",
+            "uuid": "0cf70568-8bf3-4d76-9eaa-4494d8a31bfc",
+            "textureUuid": "98e48571-6ade-4578-a255-5cadf0f66831",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_5.png",
+            "trim": {
+              "x": 680,
+              "y": 625,
+              "width": 161,
+              "height": 30,
+              "rotatedWidth": 161,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 161,
+            "rawHeight": 30,
+            "width": 167,
+            "height": 36,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/98/98e48571-6ade-4578-a255-5cadf0f66831.png",
+            "x": 677,
+            "y": 622,
+            "rotatedWidth": 167,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "X2 拷贝 2",
+            "uuid": "888fe7aa-212c-4a2b-8a5c-37db222f222e",
+            "textureUuid": "86420cfb-9627-4896-9982-08f5e6974091",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_61.png",
+            "trim": {
+              "x": 847,
+              "y": 625,
+              "width": 40,
+              "height": 25,
+              "rotatedWidth": 40,
+              "rotatedHeight": 25
+            },
+            "rawWidth": 40,
+            "rawHeight": 25,
+            "width": 46,
+            "height": 31,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/86/86420cfb-9627-4896-9982-08f5e6974091.png",
+            "x": 844,
+            "y": 622,
+            "rotatedWidth": 46,
+            "rotatedHeight": 31
+          },
+          {
+            "name": "组 33 拷贝 7",
+            "uuid": "52fd3def-a5ed-4c2c-8027-8e70acfb3140",
+            "textureUuid": "7ae1439c-f583-4d81-9f77-1f3246ff9f7b",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_45.png",
+            "trim": {
+              "x": 893,
+              "y": 625,
+              "width": 28,
+              "height": 28,
+              "rotatedWidth": 28,
+              "rotatedHeight": 28
+            },
+            "rawWidth": 28,
+            "rawHeight": 28,
+            "width": 34,
+            "height": 34,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/7a/7ae1439c-f583-4d81-9f77-1f3246ff9f7b.png",
+            "x": 890,
+            "y": 622,
+            "rotatedWidth": 34,
+            "rotatedHeight": 34
+          },
+          {
+            "name": "name-bg",
+            "uuid": "3d3dca97-a4d0-48b3-97ea-ae7726af50bd",
+            "textureUuid": "f16fba93-2aa9-4330-ac1f-8ed3b8b57887",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_42.png",
+            "trim": {
+              "x": 927,
+              "y": 625,
+              "width": 22,
+              "height": 20,
+              "rotatedWidth": 20,
+              "rotatedHeight": 22
+            },
+            "rawWidth": 22,
+            "rawHeight": 20,
+            "width": 28,
+            "height": 26,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/f1/f16fba93-2aa9-4330-ac1f-8ed3b8b57887.png",
+            "x": 924,
+            "y": 622,
+            "rotated": true,
+            "rotatedWidth": 26,
+            "rotatedHeight": 28
+          },
+          {
+            "name": "progressBG",
+            "uuid": "09b7267e-4d16-4679-ad96-03c02d49ff3d",
+            "textureUuid": "935b6431-7d9c-4a96-b825-6054ccbca3b0",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_55.png",
+            "trim": {
+              "x": 993,
+              "y": 3,
+              "width": 376,
+              "height": 26,
+              "rotatedWidth": 26,
+              "rotatedHeight": 376
+            },
+            "rawWidth": 376,
+            "rawHeight": 26,
+            "width": 382,
+            "height": 32,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/93/935b6431-7d9c-4a96-b825-6054ccbca3b0.png",
+            "x": 990,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 32,
+            "rotatedHeight": 382
+          },
+          {
+            "name": "level-bg",
+            "uuid": "28e187c0-7af4-4ca2-baaf-a0443edd890d",
+            "textureUuid": "4982a02b-1a9d-410a-be2e-b2102ba58e5d",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_41.png",
+            "trim": {
+              "x": 953,
+              "y": 385,
+              "width": 50,
+              "height": 91,
+              "rotatedWidth": 50,
+              "rotatedHeight": 91
+            },
+            "rawWidth": 50,
+            "rawHeight": 91,
+            "width": 56,
+            "height": 97,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/49/4982a02b-1a9d-410a-be2e-b2102ba58e5d.png",
+            "x": 950,
+            "y": 382,
+            "rotatedWidth": 56,
+            "rotatedHeight": 97
+          },
+          {
+            "name": "progress",
+            "uuid": "e78b5dde-820f-472c-b035-00f7e0f31012",
+            "textureUuid": "63b811a2-d3db-4a47-a346-a0981fba31c6",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_54.png",
+            "trim": {
+              "x": 953,
+              "y": 3,
+              "width": 372,
+              "height": 22,
+              "rotatedWidth": 22,
+              "rotatedHeight": 372
+            },
+            "rawWidth": 376,
+            "rawHeight": 26,
+            "width": 378,
+            "height": 28,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/63/63b811a2-d3db-4a47-a346-a0981fba31c6.png",
+            "x": 950,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 28,
+            "rotatedHeight": 378
+          }
+        ],
+        "width": 1022,
+        "height": 1022,
+        "name": "AutoAtlas-1",
+        "imagePath": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\TexturePacker\\build\\raw-assets\\Texture\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\TexturePacker\\build\\raw-assets\\Texture\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "(6)",
+            "uuid": "27b52c79-6aa4-4ac8-add4-d6c8eb8ed766",
+            "textureUuid": "f951531e-5983-4343-a6ca-424e1195d251",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_21.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 316,
+              "height": 400,
+              "rotatedWidth": 316,
+              "rotatedHeight": 400
+            },
+            "rawWidth": 340,
+            "rawHeight": 400,
+            "width": 322,
+            "height": 406,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/f9/f951531e-5983-4343-a6ca-424e1195d251.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 322,
+            "rotatedHeight": 406
+          },
+          {
+            "name": "矩形 581",
+            "uuid": "c03c124b-1142-4d85-82f1-32531e752ea5",
+            "textureUuid": "16f9db87-9600-42e2-b879-9d0f09e112de",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_25.png",
+            "trim": {
+              "x": 3,
+              "y": 409,
+              "width": 486,
+              "height": 197,
+              "rotatedWidth": 197,
+              "rotatedHeight": 486
+            },
+            "rawWidth": 486,
+            "rawHeight": 197,
+            "width": 492,
+            "height": 203,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/16/16f9db87-9600-42e2-b879-9d0f09e112de.png",
+            "x": 0,
+            "y": 406,
+            "rotated": true,
+            "rotatedWidth": 203,
+            "rotatedHeight": 492
+          },
+          {
+            "name": "alty",
+            "uuid": "a22e11b3-dbe4-416b-a123-5b2086d947e3",
+            "textureUuid": "ee1036a2-0126-409b-81a8-83872952a79e",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_26.png",
+            "trim": {
+              "x": 3,
+              "y": 901,
+              "width": 755,
+              "height": 100,
+              "rotatedWidth": 755,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 760,
+            "rawHeight": 108,
+            "width": 761,
+            "height": 106,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/ee/ee1036a2-0126-409b-81a8-83872952a79e.png",
+            "x": 0,
+            "y": 898,
+            "rotatedWidth": 761,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "圆角矩形 4 拷贝",
+            "uuid": "cf9c9465-34b6-4be3-a935-368066e9491e",
+            "textureUuid": "ad34effe-5b9e-470f-99e5-8c526b4644a4",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_15.png",
+            "trim": {
+              "x": 764,
+              "y": 409,
+              "width": 226,
+              "height": 352,
+              "rotatedWidth": 226,
+              "rotatedHeight": 352
+            },
+            "rawWidth": 226,
+            "rawHeight": 352,
+            "width": 232,
+            "height": 358,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/ad/ad34effe-5b9e-470f-99e5-8c526b4644a4.png",
+            "x": 761,
+            "y": 406,
+            "rotatedWidth": 232,
+            "rotatedHeight": 358
+          },
+          {
+            "name": "组 3",
+            "uuid": "52d79ee1-2087-4b81-9200-020189158cb7",
+            "textureUuid": "5b38e742-9e66-4da6-af63-c57b366af822",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_78.png",
+            "trim": {
+              "x": 764,
+              "y": 767,
+              "width": 244,
+              "height": 108,
+              "rotatedWidth": 108,
+              "rotatedHeight": 244
+            },
+            "rawWidth": 244,
+            "rawHeight": 108,
+            "width": 250,
+            "height": 114,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/5b/5b38e742-9e66-4da6-af63-c57b366af822.png",
+            "x": 761,
+            "y": 764,
+            "rotated": true,
+            "rotatedWidth": 114,
+            "rotatedHeight": 250
+          },
+          {
+            "name": "z",
+            "uuid": "8a8ec7d0-d6d3-449e-adb9-ac58425ff750",
+            "textureUuid": "452cf243-f340-4f02-aa06-c9c58db242d6",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_74.png",
+            "trim": {
+              "x": 878,
+              "y": 767,
+              "width": 160,
+              "height": 125,
+              "rotatedWidth": 125,
+              "rotatedHeight": 160
+            },
+            "rawWidth": 163,
+            "rawHeight": 127,
+            "width": 166,
+            "height": 131,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/45/452cf243-f340-4f02-aa06-c9c58db242d6.png",
+            "x": 875,
+            "y": 764,
+            "rotated": true,
+            "rotatedWidth": 131,
+            "rotatedHeight": 166
+          },
+          {
+            "name": "椭圆 1(1)",
+            "uuid": "c67caf16-381f-459d-a30b-81bed846e851",
+            "textureUuid": "dac96767-6f0c-4e57-9a8e-26cf2bb98936",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_17.png",
+            "trim": {
+              "x": 878,
+              "y": 933,
+              "width": 120,
+              "height": 71,
+              "rotatedWidth": 120,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 127,
+            "rawHeight": 76,
+            "width": 126,
+            "height": 77,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/da/dac96767-6f0c-4e57-9a8e-26cf2bb98936.png",
+            "x": 875,
+            "y": 930,
+            "rotatedWidth": 126,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "huan",
+            "uuid": "40255fff-6fe6-4ab8-a1ca-abc211657430",
+            "textureUuid": "a7f345e9-ac13-47fa-b92e-bf787c61a1a3",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_2.png",
+            "trim": {
+              "x": 206,
+              "y": 409,
+              "width": 303,
+              "height": 303,
+              "rotatedWidth": 303,
+              "rotatedHeight": 303
+            },
+            "rawWidth": 305,
+            "rawHeight": 305,
+            "width": 309,
+            "height": 309,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/a7/a7f345e9-ac13-47fa-b92e-bf787c61a1a3.png",
+            "x": 203,
+            "y": 406,
+            "rotatedWidth": 309,
+            "rotatedHeight": 309
+          },
+          {
+            "name": "组 24",
+            "uuid": "b12948e6-6025-4efe-865f-df9034a1e459",
+            "textureUuid": "4d54690f-4d7c-4daf-ba34-ee708241115f",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_76.png",
+            "trim": {
+              "x": 206,
+              "y": 718,
+              "width": 461,
+              "height": 128,
+              "rotatedWidth": 461,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 461,
+            "rawHeight": 128,
+            "width": 467,
+            "height": 134,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/4d/4d54690f-4d7c-4daf-ba34-ee708241115f.png",
+            "x": 203,
+            "y": 715,
+            "rotatedWidth": 467,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "groupRank",
+            "uuid": "a5c7ae14-e0d8-4b7d-80ad-04454833c2d3",
+            "textureUuid": "f4dacb08-79d9-4d34-8172-3fe32e15dd5e",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_72.png",
+            "trim": {
+              "x": 206,
+              "y": 852,
+              "width": 185,
+              "height": 41,
+              "rotatedWidth": 185,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 185,
+            "rawHeight": 41,
+            "width": 191,
+            "height": 47,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/f4/f4dacb08-79d9-4d34-8172-3fe32e15dd5e.png",
+            "x": 203,
+            "y": 849,
+            "rotatedWidth": 191,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "gameover",
+            "uuid": "fdffba35-959b-4e03-8e3e-b9b973282106",
+            "textureUuid": "577e6412-1119-4436-a1e3-248aa6b77403",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_38.png",
+            "trim": {
+              "x": 397,
+              "y": 852,
+              "width": 158,
+              "height": 40,
+              "rotatedWidth": 158,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 158,
+            "rawHeight": 40,
+            "width": 164,
+            "height": 46,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/57/577e6412-1119-4436-a1e3-248aa6b77403.png",
+            "x": 394,
+            "y": 849,
+            "rotatedWidth": 164,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "图鉴1",
+            "uuid": "d2980aa4-7562-4d24-8551-5d4085036d0b",
+            "textureUuid": "eeb60250-fb46-4388-a127-1af3055c4746",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_14.png",
+            "trim": {
+              "x": 561,
+              "y": 852,
+              "width": 76,
+              "height": 39,
+              "rotatedWidth": 76,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 76,
+            "rawHeight": 39,
+            "width": 82,
+            "height": 45,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/ee/eeb60250-fb46-4388-a127-1af3055c4746.png",
+            "x": 558,
+            "y": 849,
+            "rotatedWidth": 82,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "矩形 1",
+            "uuid": "4fbf8df3-b863-4c49-ada2-c190e3cf12c2",
+            "textureUuid": "09372406-8732-4687-a5f1-38a966c9eca0",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_18.png",
+            "trim": {
+              "x": 673,
+              "y": 3,
+              "width": 274,
+              "height": 83,
+              "rotatedWidth": 83,
+              "rotatedHeight": 274
+            },
+            "rawWidth": 274,
+            "rawHeight": 83,
+            "width": 280,
+            "height": 89,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/09/09372406-8732-4687-a5f1-38a966c9eca0.png",
+            "x": 670,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 89,
+            "rotatedHeight": 280
+          },
+          {
+            "name": "组 7",
+            "uuid": "7dcedec0-4373-4479-9837-e0231b1192f8",
+            "textureUuid": "3265e406-38b6-49a1-803a-9aad4604cc7d",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_9.png",
+            "trim": {
+              "x": 673,
+              "y": 283,
+              "width": 253,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 253
+            },
+            "rawWidth": 253,
+            "rawHeight": 76,
+            "width": 259,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/32/3265e406-38b6-49a1-803a-9aad4604cc7d.png",
+            "x": 670,
+            "y": 280,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 259
+          },
+          {
+            "name": "3",
+            "uuid": "511ca3c6-6ead-4877-8d6c-5e83b3900e72",
+            "textureUuid": "f63c4e49-a94c-4cd8-aa65-702d7b8153e0",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_71.png",
+            "trim": {
+              "x": 755,
+              "y": 283,
+              "width": 262,
+              "height": 118,
+              "rotatedWidth": 262,
+              "rotatedHeight": 118
+            },
+            "rawWidth": 262,
+            "rawHeight": 118,
+            "width": 268,
+            "height": 124,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/f6/f63c4e49-a94c-4cd8-aa65-702d7b8153e0.png",
+            "x": 752,
+            "y": 280,
+            "rotatedWidth": 268,
+            "rotatedHeight": 124
+          },
+          {
+            "name": "shipin (1)",
+            "uuid": "1c6d6256-e22a-47f3-9753-ea8a59ce2583",
+            "textureUuid": "a0c6e9a8-c2e6-4fc7-b512-bc30943d9a7d",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_3.png",
+            "trim": {
+              "x": 673,
+              "y": 542,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/a0/a0c6e9a8-c2e6-4fc7-b512-bc30943d9a7d.png",
+            "x": 670,
+            "y": 539,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "x",
+            "uuid": "53d4b33b-1f44-4d1f-8cbc-cf4d006388eb",
+            "textureUuid": "a7a1efc0-b342-49ff-939a-330fcd29ca5b",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901811_image_83.png",
+            "trim": {
+              "x": 673,
+              "y": 771,
+              "width": 82,
+              "height": 99,
+              "rotatedWidth": 82,
+              "rotatedHeight": 99
+            },
+            "rawWidth": 86,
+            "rawHeight": 108,
+            "width": 88,
+            "height": 105,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/a7/a7a1efc0-b342-49ff-939a-330fcd29ca5b.png",
+            "x": 670,
+            "y": 768,
+            "rotatedWidth": 88,
+            "rotatedHeight": 105
+          },
+          {
+            "name": "tipbox (2)",
+            "uuid": "46a8fa4a-2c94-47d4-83f3-8d11cf49bd4a",
+            "textureUuid": "89260284-38d9-401e-b172-b3432a6086df",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_81.png",
+            "trim": {
+              "x": 762,
+              "y": 3,
+              "width": 264,
+              "height": 190,
+              "rotatedWidth": 190,
+              "rotatedHeight": 264
+            },
+            "rawWidth": 303,
+            "rawHeight": 234,
+            "width": 270,
+            "height": 196,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/89/89260284-38d9-401e-b172-b3432a6086df.png",
+            "x": 759,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 196,
+            "rotatedHeight": 270
+          },
+          {
+            "name": "11",
+            "uuid": "7561eb3e-7728-4a86-85ad-077206b097d1",
+            "textureUuid": "46bf6ed6-b53f-4c53-8e34-f4287ed14b0c",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901803_image_0.png",
+            "trim": {
+              "x": 958,
+              "y": 3,
+              "width": 201,
+              "height": 44,
+              "rotatedWidth": 44,
+              "rotatedHeight": 201
+            },
+            "rawWidth": 201,
+            "rawHeight": 44,
+            "width": 207,
+            "height": 50,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/46/46bf6ed6-b53f-4c53-8e34-f4287ed14b0c.png",
+            "x": 955,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 50,
+            "rotatedHeight": 207
+          },
+          {
+            "name": "back",
+            "uuid": "fa4c1170-9b3a-49de-9f3c-a2accdbb6fbe",
+            "textureUuid": "719f200f-ffd6-4dfe-8da3-6cfe2bbfd968",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_27.png",
+            "trim": {
+              "x": 958,
+              "y": 210,
+              "width": 54,
+              "height": 54,
+              "rotatedWidth": 54,
+              "rotatedHeight": 54
+            },
+            "rawWidth": 54,
+            "rawHeight": 54,
+            "width": 60,
+            "height": 60,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/71/719f200f-ffd6-4dfe-8da3-6cfe2bbfd968.png",
+            "x": 955,
+            "y": 207,
+            "rotatedWidth": 60,
+            "rotatedHeight": 60
+          },
+          {
+            "name": "tiancai",
+            "uuid": "cb492436-20b4-4861-8deb-07e075838102",
+            "textureUuid": "a1cce985-552c-4113-8b50-8201966725bf",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_73.png",
+            "trim": {
+              "x": 515,
+              "y": 3,
+              "width": 261,
+              "height": 116,
+              "rotatedWidth": 116,
+              "rotatedHeight": 261
+            },
+            "rawWidth": 262,
+            "rawHeight": 117,
+            "width": 267,
+            "height": 122,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/a1/a1cce985-552c-4113-8b50-8201966725bf.png",
+            "x": 512,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 122,
+            "rotatedHeight": 267
+          },
+          {
+            "name": "按钮",
+            "uuid": "07cb5ff6-4cfc-490d-bca2-160ce6f958d9",
+            "textureUuid": "6737f5f0-dcbb-4648-974b-f8158527de6c",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_4.png",
+            "trim": {
+              "x": 325,
+              "y": 270,
+              "width": 256,
+              "height": 86,
+              "rotatedWidth": 256,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 256,
+            "rawHeight": 86,
+            "width": 262,
+            "height": 92,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/67/6737f5f0-dcbb-4648-974b-f8158527de6c.png",
+            "x": 322,
+            "y": 267,
+            "rotatedWidth": 262,
+            "rotatedHeight": 92
+          },
+          {
+            "name": "组 27",
+            "uuid": "be879a55-c98f-4f64-b69b-7ab1cc9c8536",
+            "textureUuid": "dca9cb3f-377a-4c2d-98a9-0eb8c8cb4bad",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_6.png",
+            "trim": {
+              "x": 587,
+              "y": 270,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/dc/dca9cb3f-377a-4c2d-98a9-0eb8c8cb4bad.png",
+            "x": 584,
+            "y": 267,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "stepleft",
+            "uuid": "a7a08b18-ddbe-440f-862c-70626961c6c7",
+            "textureUuid": "e711a37d-4f5f-4d80-8d21-cf64964637e3",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_80.png",
+            "trim": {
+              "x": 587,
+              "y": 499,
+              "width": 159,
+              "height": 79,
+              "rotatedWidth": 79,
+              "rotatedHeight": 159
+            },
+            "rawWidth": 159,
+            "rawHeight": 79,
+            "width": 165,
+            "height": 85,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/e7/e711a37d-4f5f-4d80-8d21-cf64964637e3.png",
+            "x": 584,
+            "y": 496,
+            "rotated": true,
+            "rotatedWidth": 85,
+            "rotatedHeight": 165
+          },
+          {
+            "name": "5",
+            "uuid": "e39df008-fb6f-4c14-a928-665f64c0dd9f",
+            "textureUuid": "430ab185-dcf2-483c-a6a8-fe92d274b9bb",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_11.png",
+            "trim": {
+              "x": 515,
+              "y": 664,
+              "width": 135,
+              "height": 44,
+              "rotatedWidth": 135,
+              "rotatedHeight": 44
+            },
+            "rawWidth": 135,
+            "rawHeight": 44,
+            "width": 141,
+            "height": 50,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/43/430ab185-dcf2-483c-a6a8-fe92d274b9bb.png",
+            "x": 512,
+            "y": 661,
+            "rotatedWidth": 141,
+            "rotatedHeight": 50
+          },
+          {
+            "name": "圆角矩形 512",
+            "uuid": "1dd9358f-0489-494e-9cf5-84371bdd86af",
+            "textureUuid": "ed651ec6-d155-4ebe-a008-cf7cba0f62e8",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_75.png",
+            "trim": {
+              "x": 515,
+              "y": 362,
+              "width": 277,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 277
+            },
+            "rawWidth": 277,
+            "rawHeight": 45,
+            "width": 283,
+            "height": 51,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/ed/ed651ec6-d155-4ebe-a008-cf7cba0f62e8.png",
+            "x": 512,
+            "y": 359,
+            "rotated": true,
+            "rotatedWidth": 51,
+            "rotatedHeight": 283
+          },
+          {
+            "name": "shareicon",
+            "uuid": "d4647ba7-21d0-4409-9261-bbfe791a4e41",
+            "textureUuid": "4c96b586-fff7-4d41-aa29-cd7deb27bf85",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_79.png",
+            "trim": {
+              "x": 325,
+              "y": 3,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/4c/4c96b586-fff7-4d41-aa29-cd7deb27bf85.png",
+            "x": 322,
+            "y": 0,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "share",
+            "uuid": "7a44b744-30a1-4035-a0df-7ff73ac0e587",
+            "textureUuid": "8ce9770c-4871-4ece-93a7-0280b1571156",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_12.png",
+            "trim": {
+              "x": 325,
+              "y": 159,
+              "width": 90,
+              "height": 122,
+              "rotatedWidth": 122,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 90,
+            "rawHeight": 122,
+            "width": 96,
+            "height": 128,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/8c/8ce9770c-4871-4ece-93a7-0280b1571156.png",
+            "x": 322,
+            "y": 156,
+            "rotated": true,
+            "rotatedWidth": 128,
+            "rotatedHeight": 96
+          }
+        ],
+        "width": 1020,
+        "height": 1014,
+        "name": "AutoAtlas-2",
+        "imagePath": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\TexturePacker\\build\\raw-assets\\Texture\\AutoAtlas.pac\\AutoAtlas-2.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\TexturePacker\\build\\raw-assets\\Texture\\AutoAtlas.pac\\compressed\\AutoAtlas-2"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "11111",
+            "uuid": "151df094-4394-48ca-af76-8cc832800577",
+            "textureUuid": "cb22c513-37c3-4fb1-a213-a4762cef5098",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 144,
+              "height": 144,
+              "rotatedWidth": 144,
+              "rotatedHeight": 144
+            },
+            "rawWidth": 144,
+            "rawHeight": 144,
+            "width": 150,
+            "height": 150,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/cb/cb22c513-37c3-4fb1-a213-a4762cef5098.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 150,
+            "rotatedHeight": 150
+          },
+          {
+            "name": "手",
+            "uuid": "7e9f1bfa-9385-4044-91bc-c8a52f0c2d2d",
+            "textureUuid": "19457837-e8b4-45c6-9cc5-a6219d13ac46",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_24.png",
+            "trim": {
+              "x": 3,
+              "y": 153,
+              "width": 127,
+              "height": 147,
+              "rotatedWidth": 127,
+              "rotatedHeight": 147
+            },
+            "rawWidth": 127,
+            "rawHeight": 147,
+            "width": 133,
+            "height": 153,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/19/19457837-e8b4-45c6-9cc5-a6219d13ac46.png",
+            "x": 0,
+            "y": 150,
+            "rotatedWidth": 133,
+            "rotatedHeight": 153
+          },
+          {
+            "name": "组 29",
+            "uuid": "c369c7ad-cdb0-4cb5-98f2-1c42419251af",
+            "textureUuid": "bf4a5331-4564-40ed-8787-555436e24823",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 306,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/bf/bf4a5331-4564-40ed-8787-555436e24823.png",
+            "x": 0,
+            "y": 303,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "组 3 拷贝",
+            "uuid": "5ee173e5-cf3d-4282-b2a5-668617ecb8d9",
+            "textureUuid": "63e6f57a-de76-4073-a85b-508bb2028b8c",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_8.png",
+            "trim": {
+              "x": 3,
+              "y": 535,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/63/63e6f57a-de76-4073-a85b-508bb2028b8c.png",
+            "x": 0,
+            "y": 532,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "组 7(1)",
+            "uuid": "db948d8a-dcd0-4188-a8ad-b49f90806848",
+            "textureUuid": "56d36e2a-bba8-4c38-9163-f7508a8e6bad",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901804_image_10.png",
+            "trim": {
+              "x": 3,
+              "y": 764,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/56/56d36e2a-bba8-4c38-9163-f7508a8e6bad.png",
+            "x": 0,
+            "y": 761,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "addStepAdv",
+            "uuid": "38488265-36f4-4d81-a69a-7b6ecf2dfb04",
+            "textureUuid": "e86ee5c7-0dd6-474a-b39a-0f943dda190e",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_43.png",
+            "trim": {
+              "x": 85,
+              "y": 306,
+              "width": 223,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 76,
+            "width": 229,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/e8/e86ee5c7-0dd6-474a-b39a-0f943dda190e.png",
+            "x": 82,
+            "y": 303,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "icon3",
+            "uuid": "94fb742b-e8a6-47cb-84e2-6475e50eb095",
+            "textureUuid": "dd5777d4-bd88-4efa-9e7b-0d08a76cc95a",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_39.png",
+            "trim": {
+              "x": 136,
+              "y": 153,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/dd/dd5777d4-bd88-4efa-9e7b-0d08a76cc95a.png",
+            "x": 133,
+            "y": 150,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "icon4",
+            "uuid": "8d6b9f93-adea-4b9b-94c5-4e8c36a818a2",
+            "textureUuid": "95b4512e-6e79-4d50-92af-2ce059f17795",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_40.png",
+            "trim": {
+              "x": 167,
+              "y": 3,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/95/95b4512e-6e79-4d50-92af-2ce059f17795.png",
+            "x": 164,
+            "y": 0,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "图鉴",
+            "uuid": "0681e35d-19c2-43f9-9536-7606795e4de7",
+            "textureUuid": "1466360e-b55f-4445-a0de-4070362ca6d4",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_13.png",
+            "trim": {
+              "x": 270,
+              "y": 137,
+              "width": 90,
+              "height": 122,
+              "rotatedWidth": 90,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 90,
+            "rawHeight": 122,
+            "width": 96,
+            "height": 128,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/14/1466360e-b55f-4445-a0de-4070362ca6d4.png",
+            "x": 267,
+            "y": 134,
+            "rotatedWidth": 96,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "组 4 拷贝 2",
+            "uuid": "657d750c-cd1c-4d4c-9a94-a1d2df11a6cf",
+            "textureUuid": "03ffd00a-834d-4398-be9d-67780a0a9188",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_19.png",
+            "trim": {
+              "x": 301,
+              "y": 3,
+              "width": 90,
+              "height": 122,
+              "rotatedWidth": 90,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 90,
+            "rawHeight": 122,
+            "width": 96,
+            "height": 128,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/03/03ffd00a-834d-4398-be9d-67780a0a9188.png",
+            "x": 298,
+            "y": 0,
+            "rotatedWidth": 96,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "组 4 拷贝 3",
+            "uuid": "f519d00d-2c4a-4ec6-ad11-abe7a501409d",
+            "textureUuid": "406a2669-4bc5-4914-9f50-20883a5c79e9",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_20.png",
+            "trim": {
+              "x": 85,
+              "y": 535,
+              "width": 90,
+              "height": 122,
+              "rotatedWidth": 90,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 90,
+            "rawHeight": 122,
+            "width": 96,
+            "height": 128,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/40/406a2669-4bc5-4914-9f50-20883a5c79e9.png",
+            "x": 82,
+            "y": 532,
+            "rotatedWidth": 96,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "shareBtn",
+            "uuid": "66e4f814-724a-4bff-9825-7df343e76008",
+            "textureUuid": "afce0d0a-e007-4df1-b7da-f389aa60a9f6",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_22.png",
+            "trim": {
+              "x": 167,
+              "y": 287,
+              "width": 101,
+              "height": 96,
+              "rotatedWidth": 96,
+              "rotatedHeight": 101
+            },
+            "rawWidth": 101,
+            "rawHeight": 97,
+            "width": 107,
+            "height": 102,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/af/afce0d0a-e007-4df1-b7da-f389aa60a9f6.png",
+            "x": 164,
+            "y": 284,
+            "rotated": true,
+            "rotatedWidth": 102,
+            "rotatedHeight": 107
+          },
+          {
+            "name": "光圈",
+            "uuid": "b98bf6a7-eb20-4a5c-a82b-8a28c1c85674",
+            "textureUuid": "626e4623-ed61-4ea4-8825-dd1c2f9c4a9d",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_23.png",
+            "trim": {
+              "x": 167,
+              "y": 394,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/62/626e4623-ed61-4ea4-8825-dd1c2f9c4a9d.png",
+            "x": 164,
+            "y": 391,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "cell1",
+            "uuid": "33d0cfcf-c5a8-430f-8116-858c725da12c",
+            "textureUuid": "f5efab48-447a-4331-b259-6cce2f407e3d",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901806_image_33.png",
+            "trim": {
+              "x": 85,
+              "y": 663,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/f5/f5efab48-447a-4331-b259-6cce2f407e3d.png",
+            "x": 82,
+            "y": 660,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "cell2",
+            "uuid": "393ac1a8-7fc3-4127-b4fd-d138ec7d984b",
+            "textureUuid": "0064b193-9933-4717-a7d1-09632c7142d0",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_34.png",
+            "trim": {
+              "x": 181,
+              "y": 494,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/00/0064b193-9933-4717-a7d1-09632c7142d0.png",
+            "x": 178,
+            "y": 491,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "cell3",
+            "uuid": "9f87bfd7-dff9-46d8-9bcb-2fd4dc2b10f5",
+            "textureUuid": "28972c30-b65b-4e12-bd48-4f7bda9be71a",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_35.png",
+            "trim": {
+              "x": 267,
+              "y": 394,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/28/28972c30-b65b-4e12-bd48-4f7bda9be71a.png",
+            "x": 264,
+            "y": 391,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "cell4",
+            "uuid": "45f214e9-3fa0-470e-9521-a13edfd2b7c0",
+            "textureUuid": "13906c67-d31e-4307-a565-ad51349d6c62",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_36.png",
+            "trim": {
+              "x": 367,
+              "y": 394,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/13/13906c67-d31e-4307-a565-ad51349d6c62.png",
+            "x": 364,
+            "y": 391,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 37",
+            "uuid": "92fdef0c-e573-4d6e-a41a-c473b43c510f",
+            "textureUuid": "753d253b-f782-462e-8d05-1429fc48bba7",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_46.png",
+            "trim": {
+              "x": 467,
+              "y": 394,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/75/753d253b-f782-462e-8d05-1429fc48bba7.png",
+            "x": 464,
+            "y": 391,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 38",
+            "uuid": "12fd0ab8-33f6-44e3-9337-c035b9aa7525",
+            "textureUuid": "db9c060b-7563-4a45-be32-d9bfa048772c",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_47.png",
+            "trim": {
+              "x": 269,
+              "y": 287,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/db/db9c060b-7563-4a45-be32-d9bfa048772c.png",
+            "x": 266,
+            "y": 284,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 39",
+            "uuid": "56333ac3-59d7-4a9b-8ccb-d56d9d4fda7e",
+            "textureUuid": "840f939f-346c-44b4-b617-b89aefbc5872",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_48.png",
+            "trim": {
+              "x": 369,
+              "y": 287,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/84/840f939f-346c-44b4-b617-b89aefbc5872.png",
+            "x": 366,
+            "y": 284,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 40",
+            "uuid": "03454f35-c355-4a8b-9161-014495b5597b",
+            "textureUuid": "a14001b1-4838-43a6-b82c-f96116919a0b",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_49.png",
+            "trim": {
+              "x": 469,
+              "y": 265,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/a1/a14001b1-4838-43a6-b82c-f96116919a0b.png",
+            "x": 466,
+            "y": 262,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 41",
+            "uuid": "ec80c9fa-e346-4ba0-a300-95abe71c0528",
+            "textureUuid": "056f3033-b5fa-4a22-b57b-54fee92969c4",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_50.png",
+            "trim": {
+              "x": 366,
+              "y": 131,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/05/056f3033-b5fa-4a22-b57b-54fee92969c4.png",
+            "x": 363,
+            "y": 128,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 42",
+            "uuid": "ee5bf543-5b21-4e5c-bc8b-58f448cce4d1",
+            "textureUuid": "27da2501-2dc7-4917-a92c-8b28a3331283",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_51.png",
+            "trim": {
+              "x": 397,
+              "y": 3,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/27/27da2501-2dc7-4917-a92c-8b28a3331283.png",
+            "x": 394,
+            "y": 0,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "组 43",
+            "uuid": "a5491008-d2e1-4632-ab3a-66a3a4572d2c",
+            "textureUuid": "75d85408-a110-4654-8bfe-79338f2217af",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_52.png",
+            "trim": {
+              "x": 466,
+              "y": 103,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/75/75d85408-a110-4654-8bfe-79338f2217af.png",
+            "x": 463,
+            "y": 100,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "蓝",
+            "uuid": "0cb17bd3-4ddf-4731-bda8-c2feb3e4ac4d",
+            "textureUuid": "f5d526f5-85c6-4163-a580-d71e1f846958",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_53.png",
+            "trim": {
+              "x": 497,
+              "y": 3,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/f5/f5d526f5-85c6-4163-a580-d71e1f846958.png",
+            "x": 494,
+            "y": 0,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "+500红",
+            "uuid": "f984f9dc-3963-4b2c-8e74-b5e8158d4d67",
+            "textureUuid": "ab843f82-9403-4c0b-8b82-e81ac926c3b7",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901808_image_56.png",
+            "trim": {
+              "x": 566,
+              "y": 103,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/ab/ab843f82-9403-4c0b-8b82-e81ac926c3b7.png",
+            "x": 563,
+            "y": 100,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "+500绿",
+            "uuid": "29ce0055-a7d8-4a64-87da-9b59200456d1",
+            "textureUuid": "3feab76b-07aa-445e-bbef-721d3f60055b",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_57.png",
+            "trim": {
+              "x": 597,
+              "y": 3,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/3f/3feab76b-07aa-445e-bbef-721d3f60055b.png",
+            "x": 594,
+            "y": 0,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "+500蓝",
+            "uuid": "422cc445-e895-4b32-a19c-1a1ce645d48e",
+            "textureUuid": "495fb4d0-7140-478f-b78b-74a5662ee2d4",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_58.png",
+            "trim": {
+              "x": 85,
+              "y": 763,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/49/495fb4d0-7140-478f-b78b-74a5662ee2d4.png",
+            "x": 82,
+            "y": 760,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "+500黄",
+            "uuid": "b081513e-17d2-463c-b781-2edc5f1c695e",
+            "textureUuid": "292a15a9-b810-4db8-8c4c-766aaab7c4e4",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_59.png",
+            "trim": {
+              "x": 85,
+              "y": 863,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/29/292a15a9-b810-4db8-8c4c-766aaab7c4e4.png",
+            "x": 82,
+            "y": 860,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "X2红",
+            "uuid": "f42026ae-4016-42e1-a9bc-d8b9f705edb1",
+            "textureUuid": "e9c5fc4a-8bd9-4cec-9d47-956eace4d347",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_62.png",
+            "trim": {
+              "x": 567,
+              "y": 365,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/e9/e9c5fc4a-8bd9-4cec-9d47-956eace4d347.png",
+            "x": 564,
+            "y": 362,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "X2绿",
+            "uuid": "b221d77f-7545-47fe-bad0-1e540b5f82b6",
+            "textureUuid": "cfd70cd1-110e-4a91-88de-50f5acade1d6",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_63.png",
+            "trim": {
+              "x": 569,
+              "y": 203,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/cf/cfd70cd1-110e-4a91-88de-50f5acade1d6.png",
+            "x": 566,
+            "y": 200,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "X2蓝",
+            "uuid": "c76df38f-ac58-4abf-9c01-413b42e7751a",
+            "textureUuid": "02249a9d-7597-4628-a2be-d8758417b922",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_64.png",
+            "trim": {
+              "x": 667,
+              "y": 103,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/02/02249a9d-7597-4628-a2be-d8758417b922.png",
+            "x": 664,
+            "y": 100,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "X2黄",
+            "uuid": "6ff4a620-f727-4a6c-84a2-dfe7b324bdf6",
+            "textureUuid": "2392c450-bb60-43f3-857a-623bc5309b78",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_65.png",
+            "trim": {
+              "x": 767,
+              "y": 103,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/23/2392c450-bb60-43f3-857a-623bc5309b78.png",
+            "x": 764,
+            "y": 100,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "炸弹-拷贝-4",
+            "uuid": "f751ff59-8e3c-404f-acb8-510e0b415b76",
+            "textureUuid": "ead00d74-812b-47eb-a068-de62e75813ec",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_66.png",
+            "trim": {
+              "x": 697,
+              "y": 3,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/ea/ead00d74-812b-47eb-a068-de62e75813ec.png",
+            "x": 694,
+            "y": 0,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "炸弹-拷贝-5",
+            "uuid": "3e5b7d3e-9995-4088-9237-73ea3e0cb941",
+            "textureUuid": "9f606596-0024-466f-b37a-97622e05f3dc",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_67.png",
+            "trim": {
+              "x": 797,
+              "y": 3,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/9f/9f606596-0024-466f-b37a-97622e05f3dc.png",
+            "x": 794,
+            "y": 0,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "炸弹绿-拷贝",
+            "uuid": "72fd7f95-62f3-4fff-9bfb-df344003d059",
+            "textureUuid": "01c1aa35-31d2-4f99-abfd-026d6aca0297",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901809_image_68.png",
+            "trim": {
+              "x": 897,
+              "y": 3,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/01/01c1aa35-31d2-4f99-abfd-026d6aca0297.png",
+            "x": 894,
+            "y": 0,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "炸弹绿",
+            "uuid": "79f59b38-59da-450b-9bfd-2cfae65f529c",
+            "textureUuid": "d3568d6a-8d11-4e7a-9720-aececa08a1c1",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901810_image_69.png",
+            "trim": {
+              "x": 867,
+              "y": 103,
+              "width": 94,
+              "height": 94,
+              "rotatedWidth": 94,
+              "rotatedHeight": 94
+            },
+            "rawWidth": 94,
+            "rawHeight": 94,
+            "width": 100,
+            "height": 100,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/d3/d3568d6a-8d11-4e7a-9720-aececa08a1c1.png",
+            "x": 864,
+            "y": 100,
+            "rotatedWidth": 100,
+            "rotatedHeight": 100
+          },
+          {
+            "name": "close",
+            "uuid": "0706478d-6e33-442e-9056-108d59ca1378",
+            "textureUuid": "bc139303-cf73-4029-98d5-c7b0ca789875",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901807_image_37.png",
+            "trim": {
+              "x": 567,
+              "y": 465,
+              "width": 81,
+              "height": 84,
+              "rotatedWidth": 84,
+              "rotatedHeight": 81
+            },
+            "rawWidth": 81,
+            "rawHeight": 84,
+            "width": 87,
+            "height": 90,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/bc/bc139303-cf73-4029-98d5-c7b0ca789875.png",
+            "x": 564,
+            "y": 462,
+            "rotated": true,
+            "rotatedWidth": 90,
+            "rotatedHeight": 87
+          },
+          {
+            "name": "btn-y",
+            "uuid": "d69e60c9-8596-434a-a465-926cb4c7734a",
+            "textureUuid": "ea6e952d-5cc2-4264-a44a-56bc0cf010a9",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901806_image_31.png",
+            "trim": {
+              "x": 281,
+              "y": 494,
+              "width": 75,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 75
+            },
+            "rawWidth": 75,
+            "rawHeight": 76,
+            "width": 81,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/ea/ea6e952d-5cc2-4264-a44a-56bc0cf010a9.png",
+            "x": 278,
+            "y": 491,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 81
+          },
+          {
+            "name": "btn-red",
+            "uuid": "953a7bdf-3b76-49d5-9831-c70e95163dd4",
+            "textureUuid": "d81ef909-1630-473f-8cb8-5b63db78579a",
+            "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_30.png",
+            "trim": {
+              "x": 363,
+              "y": 494,
+              "width": 71,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 71,
+            "rawHeight": 76,
+            "width": 77,
+            "height": 82,
+            "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/d8/d81ef909-1630-473f-8cb8-5b63db78579a.png",
+            "x": 360,
+            "y": 491,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 77
+          }
+        ],
+        "width": 994,
+        "height": 990,
+        "name": "AutoAtlas-3",
+        "imagePath": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\TexturePacker\\build\\raw-assets\\Texture\\AutoAtlas.pac\\AutoAtlas-3.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\TexturePacker\\build\\raw-assets\\Texture\\AutoAtlas.pac\\compressed\\AutoAtlas-3"
+        }
+      }
+    ],
+    "unpackedTextures": [
+      {
+        "name": "background",
+        "uuid": "70195b04-4a94-4453-b16f-8b5beeb54def",
+        "textureUuid": "f736cce7-ed67-4f19-9679-a74c5261d6a5",
+        "path": "G:\\cocos\\game\\2.1.0\\xiaoxiaole-main\\temp\\trimImages\\spritesheet_js_1730715901805_image_28.png",
+        "trim": {
+          "x": 0,
+          "y": 0,
+          "width": 750,
+          "height": 1667,
+          "rotatedWidth": 750,
+          "rotatedHeight": 1667
+        },
+        "rawWidth": 750,
+        "rawHeight": 1667,
+        "width": 756,
+        "height": 1673,
+        "originalPath": "G:/cocos/game/2.1.0/xiaoxiaole-main/library/imports/f7/f736cce7-ed67-4f19-9679-a74c5261d6a5.jpg"
+      }
+    ]
+  }
+}

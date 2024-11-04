@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X2 拷贝 2",
+    "texture": "86420cfb-9627-4896-9982-08f5e6974091",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

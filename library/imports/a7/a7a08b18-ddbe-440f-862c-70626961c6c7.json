@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stepleft",
+    "texture": "e711a37d-4f5f-4d80-8d21-cf64964637e3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      79
+    ],
+    "capInsets": [
+      24,
+      0,
+      0,
+      0
+    ]
+  }
+}

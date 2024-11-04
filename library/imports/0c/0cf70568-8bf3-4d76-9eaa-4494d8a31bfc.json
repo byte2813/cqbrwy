@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "查看好友排行",
+    "texture": "98e48571-6ade-4578-a255-5cadf0f66831",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alty",
+    "texture": "ee1036a2-0126-409b-81a8-83872952a79e",
+    "atlas": "",
+    "rect": [
+      1,
+      5,
+      755,
+      100
+    ],
+    "offset": [
+      -1.5,
+      -1
+    ],
+    "originalSize": [
+      760,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

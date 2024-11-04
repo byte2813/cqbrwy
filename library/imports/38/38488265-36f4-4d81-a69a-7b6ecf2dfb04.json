@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "addStepAdv",
+    "texture": "e86ee5c7-0dd6-474a-b39a-0f943dda190e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      223,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      223,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sanxiao10_tex",
+    "texture": "e6ed2d4c-940a-4b50-b461-ad76b33a51db",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      228,
+      250
+    ],
+    "offset": [
+      -12,
+      2
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "groupRank",
+    "texture": "f4dacb08-79d9-4d34-8172-3fe32e15dd5e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      185,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      185,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
